@@ -1,0 +1,6 @@
+get_color_from_image_pixel('test.png',x=1,y=1,'rgba')
+get_color_from_image_pixel('test.png',x=1,y=1,'rgb')
+get_color_from_image_pixel('test.png',x=1,y=1,'hexa')
+get_color_from_image_pixel('test.png',x=1,y=1,'hex')
+get_color_from_image_pixel('test.png',x=1,y=1,'hsl')
+get_color_from_image_pixel('test.png',x=1,y=1,'hsla')
