@@ -1,4 +1,5 @@
 from PIL import Image
+import colorsys
 
 #rgba to hexa
 def rgba_to_hexa(r, g, b, a, alpha):
